@@ -57,7 +57,7 @@ Você consegue atravez de atributos nos elementos configurar suas atuação, EXP
 </div>
 ````
 
-> OBS.: esse exemplo usa php para faciliar a converção dos entitles mas pode ser usado em html puro lembrando semre de converter as ``"`` (aspas).
+> OBS.: esse exemplo usa php para faciliar a converção dos entitles mas pode ser usado em html puro lembrando sempre de converter as ``"`` (aspas).
 
 Você tem de lembrar que vc tem 4 coisa a definir: **ativações**; **contexto**; **inputs de consulta**; **elementos alvo e efeitos**.
 
