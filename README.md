@@ -12,7 +12,7 @@ Ela trabalha com o seguinte esquema
 
 > 1º **Definir o contexto**: onde será aplicado a busca dos dados e onde sera aplicado seus efeirtos
 
-> 2º **Carregando dados**: se os dados não foram passodos a ela é posivel extrailos dos compos no formulario dentro do contexto
+> 2º **Carregando dados**: se os dados não foram passados a ela é posivel extrailos dos compos no formulario dentro do contexto
 
 > 3º **Localisando os afetados**: busca dentro do contexto as tags com querys.
 
