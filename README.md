@@ -1,6 +1,6 @@
 # SuperFiltro2
 
-Esta biblioteca é dedicada a automatisação de fitros para de simples a avançados para formularios ou conteudo do site.
+Esta biblioteca é dedicada a automatisação de fitros simples a avançados para formularios ou conteudo do site.
 
 ## Como funciona?
 
