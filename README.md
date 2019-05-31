@@ -124,9 +124,9 @@ const elementosPemitidos = [
 
 ### Comparação
 
-Uma comparação é formada de um array com 3 elementos, o primeiro é a chave no array de dados, o segundo é o comparador e o terceiro é o valor a ser comparado.
+Uma comparação é formada de um array com 3 elementos, o primeiro é a chave no array de dados, o segundo é o operador e o terceiro é o valor a ser comparado.
 
-Voce pode usar como comparador:
+Voce pode usar como operador:
 
 ````javascript
 const operadoresPermitidos = [
