@@ -8,7 +8,7 @@ A biblioteca consegue atravez de um contexto e uma fonte de dados resolver query
 
 ## Como ele faz isso?
 
-Ela trablha com o seguinte esquema
+Ela trabalha com o seguinte esquema
 
 > 1º **Definir o contexto**: onde será aplicado a busca dos dados e onde sera aplicado seus efeirtos
 
