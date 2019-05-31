@@ -29,7 +29,7 @@ Existem duas maneiras de usar o script, pasivamente ou ativamente.
 Você consegue apontar um contexto com jqury e passar dados para ser procesado (opcionalmente), EXP.:
 
 ````javascript
-// Devine o contesto
+// Define o contesto
 const context = $('.context');
 
 // carrega os dados (opciona)
