@@ -191,7 +191,7 @@ Exemplos em php:
 
 ## Proximos passos
 
-Iremos incluir o comparador LIKE.
+Iremos incluir o operador LIKE.
 
 ## Agradecimentos 
 
